@@ -1,5 +1,4 @@
-# FDM5-3P-khadija-elkammas
-# FD M5 – Python pour la Physique : notebooks complétés
+# FD M5 - khadija-elkammas – Python pour la Physique : notebooks complétés
 
 **Étudiante :** Khadija EL KAMMAS — Doctorante (Formation Doctorale, module M5)
 **Enseignant :** Pr. Abderrahman EL KHARRIM
