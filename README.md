@@ -24,7 +24,6 @@ Chaque notebook a été exécuté entièrement (*Tout exécuter*) : les résulta
 | `07_pandas.ipynb` | DataFrame, `groupby`, CSV, ajustement | 2 | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/elkams/FDM5-3P-khadija-elkammas/blob/main/07_pandas.ipynb) |
 | `08_incertitudes.ipynb` | Incertitudes de type A/B, propagation, χ² | 4 | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/elkams/FDM5-3P-khadija-elkammas/blob/main/08_incertitudes.ipynb) |
 | `sample.ipynb` | Exemple : script d'analyse statistique (`%%writefile`, `%run`) | — (aucun exercice) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/elkams/FDM5-3P-khadija-elkammas/blob/main/sample.ipynb) |
-| | | **Total : 41** | |
 
 ---
 
